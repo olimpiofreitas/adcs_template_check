@@ -1,6 +1,6 @@
 # ADCS Template Vulnerability Checker
 
-This Bash script (`adcs_template_check.sh`) is designed to analyze exported certificate templates from an Active Directory Certificate Services (ADCS) environment and identify insecure configurations that can be exploited by malicious users. It not only detects vulnerabilities but also provides exploitation guidance and recommended tools.
+This script is designed to analyze exported certificate templates from an Active Directory Certificate Services (ADCS) environment and identify insecure configurations that can be exploited by malicious users. It not only detects vulnerabilities but also provides exploitation guidance and recommended tools.
 
 ---
 
